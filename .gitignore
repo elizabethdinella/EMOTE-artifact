@@ -1,0 +1,27 @@
+# benchmark: download per README (the 5 tracked jars stay tracked)
+SF100/
+# run outputs and scratch
+outputs
+outputs-*
+results-*
+soap
+com
+failed.tsv
+/timeline.pdf
+sf100-scripts.zip
+ablation.jar
+# superseded or not used in the paper
+eval.py
+run_evo.sh
+muse.jar
+rq4.py
+sample_find*.py
+compare_methods.py
+cluster_size.py
+cluster_size.tsv
+error_analysis.py
+error_analysis.tsv
+loss_causes.py
+diagnose_runs.py
+__pycache__
+*.pyc
